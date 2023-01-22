@@ -6,7 +6,7 @@ These "triggers" are designed to be used with the [BusKill Dead Man Switch](http
 
 # Low-Risk (Non-Destructive)
 
-This section enumerates triggers that are designed to be very safe to use. BusKill *only* ship with non-destructive triggers
+This section enumerates triggers that are designed to be very safe to use. The BusKill app *only* ship with non-destructive triggers out-of-the-box.
 
  * [lock-screen](https://github.com/BusKill/buskill-app/blob/v0.6.0/src/packages/buskill/__init__.py#L1024)
 
